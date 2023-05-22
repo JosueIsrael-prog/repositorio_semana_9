@@ -12,7 +12,6 @@ void fillMatrix(int matrix[MAX_ROWS][MAX_COLS], int rows, int cols) {
         }
     }
 }
-
 void printMatrix(int matrix[MAX_ROWS][MAX_COLS], int rows, int cols) {
     for (int i = 0; i < rows; i++) {
         for (int j = 0; j < cols; j++) {
